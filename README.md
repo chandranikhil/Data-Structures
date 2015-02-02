@@ -11,7 +11,6 @@ The following ATDs have been implemented-<br>
 <li>Heaps</li>
 <li>Bags</li>
 <li>Linear Hashing</li>
-<li>Bag</li>
 <li>Union Find</li>
 </ul>
 
