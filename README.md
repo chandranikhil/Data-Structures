@@ -10,6 +10,9 @@ The following ATDs have been implemented-<br>
 <li>Graphs</li>
 <li>Heaps</li>
 <li>Bags</li>
+<li>Linear Hashing</li>
+<li>Bag</li>
+<li>Union Find</li>
 </ul>
 
 For most of the ADTs there is a file '*Test.java' that tests all the functions of the class.<br>
